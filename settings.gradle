@@ -1,0 +1,2 @@
+rootProject.name='Typicode Albums'
+include ':app'
